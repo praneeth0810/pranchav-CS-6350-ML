@@ -1,0 +1,1 @@
+bash run.sh this will give the menu options to run adaboost, bagging and random forest models

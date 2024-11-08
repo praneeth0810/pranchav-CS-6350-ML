@@ -1,0 +1,1 @@
+bash run.sh, this will run all the codes.
